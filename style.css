@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    max-width: 1080px;
+   margin: 0 auto;
+}
 /* NAVBAR*/
 .navbar {
     background-color: #3b3b3b;
